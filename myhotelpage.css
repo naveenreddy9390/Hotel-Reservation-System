@@ -1,0 +1,126 @@
+.copyright_paragraph {
+    font-size: 10px;
+    text-align: right;
+}
+
+.bottom_copyright_card {
+    background-color: #313987;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.bottom_offer_card {
+    background-color: #b8b6b2;
+}
+
+.copyright_icon {
+    color: white;
+    font-size: 18px;
+    margin-right: 10px;
+}
+
+.recommended_main_card {
+    background-size: cover;
+    height: 100vh;
+}
+
+.heading {
+    font-family: "Roboto";
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+    padding: 15px;
+    margin-bottom: 15px;
+}
+
+.container {
+    height: 60vh;
+    background-size: cover;
+}
+
+
+.copyright_title {
+    color: white;
+    font-size: 12px;
+    text-align: center;
+    font-weight: 100;
+}
+
+.userLoginHeading {
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: 800;
+}
+
+.userLoginpg {
+    background-image: url('https://media.cntraveler.com/photos/57f3f72d44b4743b6f94de1f/master/w_2048,h_1536,c_limit/Bedroom-ArtHotel-DenverCO-CRHotel.jpg');
+    background-size: cover;
+    height: 100vh;
+    padding: 18px;
+}
+
+.administratorLoginHeading {
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: 800;
+    font-family: 'serif';
+}
+
+.administratorLoginpg {
+    background-image: url('https://media.cntraveler.com/photos/57f3f72d44b4743b6f94de1f/master/w_2048,h_1536,c_limit/Bedroom-ArtHotel-DenverCO-CRHotel.jpg');
+    background-size: cover;
+    height: 100vh;
+    padding: 18px;
+
+}
+
+.background_image {
+    background-image: url('https://media.cntraveler.com/photos/57f3f72d44b4743b6f94de1f/master/w_2048,h_1536,c_limit/Bedroom-ArtHotel-DenverCO-CRHotel.jpg');
+    height: 90vh;
+    background-size: cover;
+    padding-top: 100px;
+}
+
+.main_heading {
+    text-align: center;
+    font-size: 8vh;
+    padding-bottom: 2vh;
+    font-family: 'serif';
+    font-weight: bold;
+
+
+}
+
+.login_heading {
+    text-align: center;
+    margin-bottom: 40px;
+    margin-top: 220px;
+    font-weight: bold;
+    font-family: 'serif';
+    font-size: 30px;
+
+}
+
+.copyright_paragraph {
+    font-size: 10px;
+    text-align: right;
+}
+
+.bottom_copyright_card {
+    background-color: #313987;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.copyright_icon {
+    color: white;
+    font-size: 18px;
+    margin-right: 10px;
+}
+
+.copyright_title {
+    color: white;
+    font-size: 12px;
+    text-align: center;
+    font-weight: 100;
+}
